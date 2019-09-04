@@ -1,3 +1,5 @@
+package com.zawlynn.udacity.p4;
+
 import android.os.Bundle;
 
 import android.util.Log;
@@ -12,7 +14,7 @@ import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.MobileAds;
 import com.google.android.gms.ads.initialization.InitializationStatus;
 import com.google.android.gms.ads.initialization.OnInitializationCompleteListener;
-import com.zawlynn.udicity.p4.R;
+
 
 
 /**

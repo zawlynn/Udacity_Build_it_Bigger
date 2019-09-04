@@ -14,7 +14,7 @@ android {
     compileSdkVersion 29
     buildToolsVersion "29.0.0"
     defaultConfig {
-        applicationId "com.zawlynn.udicity.p4"
+        applicationId "com.zawlynn.udacity.p4"
         minSdkVersion 21
         targetSdkVersion 29
         versionCode 1
@@ -31,10 +31,10 @@ android {
     flavorDimensions "standard"
     productFlavors {
         free {
-            applicationId "com.zawlynn.udicity.p4.free"
+            applicationId "com.zawlynn.udacity.p4.free"
         }
         paid {
-            applicationId "com.zawlynn.udicity.p4.paid"
+            applicationId "com.zawlynn.udacity.p4.paid"
         }
     }
     sourceSets {
